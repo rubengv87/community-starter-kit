@@ -12,3 +12,4 @@ el bot puede
 ## I've already tried
 
 _Help us help you by letting us know what you have already tried in your efforts to accomplish this. If you don't put anything here, we are likely to point you to the docs :wink:_
+ya se responderan las preguntas
