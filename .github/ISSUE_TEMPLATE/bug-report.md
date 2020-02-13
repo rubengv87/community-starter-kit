@@ -1,6 +1,3 @@
-a
-b
-c
-d
-e
-f
+Reporting a bug
+Suggesting a new feature
+Creating a pull request
