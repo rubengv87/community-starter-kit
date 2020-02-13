@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Bot de Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Responde automaticamente mensajes
 
 ## Getting started
 
