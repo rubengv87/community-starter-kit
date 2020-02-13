@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+respondo mensajes rapido
+facil
